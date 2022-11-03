@@ -14,7 +14,7 @@ Also check out [Microsoft Edge's *Let's Surf*](https://github.com/yell0wsuit/ms-
 </p>
 
 ## Play
-Play online: https://yell0wsuit.page/html5-games/games/chrome-dino/
+Play online: https://dynomines.github.io/chrome-dino/
 
 Play offline: download or clone this repo, then open ``index.html`` to play.
 
